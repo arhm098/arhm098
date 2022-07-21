@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @arhm098
-- 👀 I’m interested in u <3
-- 🌱 I’m currently learning CS 6th semester (5/7/2022)
-- 💞️ I’m looking to collaborate on idk
+- 👀 I’m interested in react,node
+- 🌱 I’m currently learning CS 7th semester (7/21/2022) (summer)
+- 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me myhammad.arham.0987711@gmail.com
 
 <!---
